@@ -7,6 +7,7 @@ A number of items I have found *useful* while learning Solidity in 2024.
  
 ## Tutorials
 - [Learn Solidity - Alchemy](https://university.alchemy.com/overview/solidity)
+- [Solidity By Example](https://solidity-by-example.org)
 
 ## Videos
 - [Ethereum in 30 minutes by Vitalik Buterin | Devcon Bogota](https://www.youtube.com/watch?v=UihMqcj-cqc)
